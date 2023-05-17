@@ -14,4 +14,4 @@ author_profile: false
 
 ### Work in Progress
 
-Income inequality in mortality rates over the course of the Covid-19 pandemic (with Johannes Spinnewijn)
+Income Gradient in Mortality during the Covid-19 Pandemic in Belgium (with Johannes Spinnewijn)
