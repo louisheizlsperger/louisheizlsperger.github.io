@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Health Policy/Economics at Harvard University. I graduated from LMU Munich in 2021 with a B.Sc. in Economics and from LSE in 2022 with a M.Sc. in Economics.
+I am a PhD student in Economics at UC Berkeley. I graduated from LMU Munich in 2021 with a B.Sc. in Economics and from LSE in 2022 with a M.Sc. in Economics.
 
 A list of research projects can be found [here](research).
 
