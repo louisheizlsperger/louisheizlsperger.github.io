@@ -7,9 +7,19 @@ author_profile: false
 
 ### Publications
 
+_Economics_
+
 [The Fundamental Determinants of Protest Participation: Evidence from Hong Kong’s Antiauthoritarian Movement](../files/hk_descriptive.pdf) (with Davide Cantoni, David Y. Yang, Noam Yuchtman, and Jane Y. Zhang)
 
 <sub> _Journal of Public Economics_, Vol. 211 (July 2022): article 104667 </sub>
+
+<br>
+
+_Health Policy_
+
+[The Great Resignation, Employment, and Wages in Health Care](https://catalyst.nejm.org/doi/full/10.1056/CAT.23.0315) (with Amitabh Chandra)
+
+<sub> _NEJM Catalyst Innovations in Care Delivery_, Vol. 4, Issue 6 (December 2023) </sub>
 
 
 ### Work in Progress
