@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at UC Berkeley. I graduated from LMU Munich in 2021 with a B.Sc. in Economics and from LSE in 2022 with a M.Sc. in Economics.
+I am a first-year PhD student in Economics at UC Berkeley.
 
 A list of research projects can be found [here](research).
 
