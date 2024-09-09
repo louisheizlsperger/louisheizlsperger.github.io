@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Economics at UC Berkeley.
+I am a PhD student in Economics at UC Berkeley.
 
 A list of research projects can be found [here](research).
 
