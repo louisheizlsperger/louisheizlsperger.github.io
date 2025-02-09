@@ -21,6 +21,3 @@ _Health Policy_
 
 <span style="margin-top: -1em; font-size: small;"> _NEJM Catalyst Innovations in Care Delivery_, Vol. 4, Issue 6 (December 2023) </span>
 
-### Work in Progress
-
-Income Gradient in Mortality during the Covid-19 Pandemic in Belgium (with Johannes Spinnewijn)
