@@ -5,6 +5,15 @@ permalink: /research/
 author_profile: false
 ---
 
+
+### Working papers
+
+[Thinking versus Doing: Cognitive Capacity, Decision Making and Medical Diagnosis](../files/CognitiveLoad_Final_03252026.pdf) (with Benjamin R. Handel, Jonas Knecht, Jonathan T. Kolstad, Ulrike Malmendier, and Filip Matějka) ([NBER WP 35034](https://www.nber.org/papers/w35034))
+
+<span style="margin-top: -1em; font-size: small;">_NBER Working Paper No. 35034_, April 2026</span>
+
+<br>
+
 ### Publications
 
 _Economics_
